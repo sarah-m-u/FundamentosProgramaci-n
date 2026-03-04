@@ -1,0 +1,7 @@
+C:\SMU\FundamentosProgramaci-n\TallerCondicionales\TallerCondicionales\bin\Debug\TallerCondicionales.exe.config
+C:\SMU\FundamentosProgramaci-n\TallerCondicionales\TallerCondicionales\bin\Debug\TallerCondicionales.exe
+C:\SMU\FundamentosProgramaci-n\TallerCondicionales\TallerCondicionales\bin\Debug\TallerCondicionales.pdb
+C:\SMU\FundamentosProgramaci-n\TallerCondicionales\TallerCondicionales\obj\Debug\TallerCondicionales.csproj.AssemblyReference.cache
+C:\SMU\FundamentosProgramaci-n\TallerCondicionales\TallerCondicionales\obj\Debug\TallerCondicionales.csproj.CoreCompileInputs.cache
+C:\SMU\FundamentosProgramaci-n\TallerCondicionales\TallerCondicionales\obj\Debug\TallerCondicionales.exe
+C:\SMU\FundamentosProgramaci-n\TallerCondicionales\TallerCondicionales\obj\Debug\TallerCondicionales.pdb
