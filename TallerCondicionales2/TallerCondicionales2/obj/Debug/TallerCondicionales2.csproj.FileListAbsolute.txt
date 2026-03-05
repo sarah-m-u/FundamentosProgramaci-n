@@ -1,0 +1,7 @@
+C:\Users\B15S201est\Documents\TallerCondicionales2\TallerCondicionales2\bin\Debug\TallerCondicionales2.exe.config
+C:\Users\B15S201est\Documents\TallerCondicionales2\TallerCondicionales2\bin\Debug\TallerCondicionales2.exe
+C:\Users\B15S201est\Documents\TallerCondicionales2\TallerCondicionales2\bin\Debug\TallerCondicionales2.pdb
+C:\Users\B15S201est\Documents\TallerCondicionales2\TallerCondicionales2\obj\Debug\TallerCondicionales2.csproj.AssemblyReference.cache
+C:\Users\B15S201est\Documents\TallerCondicionales2\TallerCondicionales2\obj\Debug\TallerCondicionales2.csproj.CoreCompileInputs.cache
+C:\Users\B15S201est\Documents\TallerCondicionales2\TallerCondicionales2\obj\Debug\TallerCondicionales2.exe
+C:\Users\B15S201est\Documents\TallerCondicionales2\TallerCondicionales2\obj\Debug\TallerCondicionales2.pdb
