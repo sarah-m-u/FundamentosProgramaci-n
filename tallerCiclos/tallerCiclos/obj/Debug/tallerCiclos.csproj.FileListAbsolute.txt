@@ -1,0 +1,7 @@
+C:\SM\FundamentosProgramaci-n\tallerCiclos\tallerCiclos\bin\Debug\tallerCiclos.exe.config
+C:\SM\FundamentosProgramaci-n\tallerCiclos\tallerCiclos\bin\Debug\tallerCiclos.exe
+C:\SM\FundamentosProgramaci-n\tallerCiclos\tallerCiclos\bin\Debug\tallerCiclos.pdb
+C:\SM\FundamentosProgramaci-n\tallerCiclos\tallerCiclos\obj\Debug\tallerCiclos.csproj.AssemblyReference.cache
+C:\SM\FundamentosProgramaci-n\tallerCiclos\tallerCiclos\obj\Debug\tallerCiclos.csproj.CoreCompileInputs.cache
+C:\SM\FundamentosProgramaci-n\tallerCiclos\tallerCiclos\obj\Debug\tallerCiclos.exe
+C:\SM\FundamentosProgramaci-n\tallerCiclos\tallerCiclos\obj\Debug\tallerCiclos.pdb
