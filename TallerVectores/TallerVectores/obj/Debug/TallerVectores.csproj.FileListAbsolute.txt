@@ -1,0 +1,7 @@
+C:\SMU\FundamentosProgramaci-n\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe.config
+C:\SMU\FundamentosProgramaci-n\TallerVectores\TallerVectores\bin\Debug\TallerVectores.exe
+C:\SMU\FundamentosProgramaci-n\TallerVectores\TallerVectores\bin\Debug\TallerVectores.pdb
+C:\SMU\FundamentosProgramaci-n\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.AssemblyReference.cache
+C:\SMU\FundamentosProgramaci-n\TallerVectores\TallerVectores\obj\Debug\TallerVectores.csproj.CoreCompileInputs.cache
+C:\SMU\FundamentosProgramaci-n\TallerVectores\TallerVectores\obj\Debug\TallerVectores.exe
+C:\SMU\FundamentosProgramaci-n\TallerVectores\TallerVectores\obj\Debug\TallerVectores.pdb
